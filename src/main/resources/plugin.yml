@@ -1,0 +1,9 @@
+name: SandlotFactions
+main: com.sandlotminecraft.SandlotFactions.Main
+version: 1.0
+commands:
+    tokens:
+        description: Gives you Tokens or time left until you can receive more.
+        usage: /<command>
+        permission: server.basics
+        permission-message: You shouldn't be seeing this.
